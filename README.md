@@ -1,8 +1,8 @@
-# Code for: Ab initio control of zeolite phase competition and intergrowth using high-throughput simulations
+# Code for: A priori control of zeolite phase competition and intergrowth using high-throughput simulations
 
 This repository has the code and data to reproduce all plots from the following paper:
 
-D. Schwalbe-Koda et al. Ab initio control of zeolite phase competition and intergrowth using high-throughput simulations. (2021).
+D. Schwalbe-Koda et al. A priori control of zeolite phase competition and intergrowth using high-throughput simulations. Science **374** (6565), 308-315 (2021). DOI [10.1126/science.abh3350](https://doi.org/10.1126/science.abh3350).
 
 All the raw data for the experimental and computational plots are found in the [data](data/) folder. The code used to reproduce the plots is available at the [code](code/) folder.
 
