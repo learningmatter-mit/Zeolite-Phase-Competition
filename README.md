@@ -1,5 +1,9 @@
 # Code for: A priori control of zeolite phase competition and intergrowth using high-throughput simulations
 
+
+[![DOI](https://zenodo.org/badge/400010078.svg)](https://zenodo.org/badge/latestdoi/400010078)
+
+
 This repository has the code and data to reproduce all plots from the following paper:
 
 D. Schwalbe-Koda et al. A priori control of zeolite phase competition and intergrowth using high-throughput simulations. Science **374** (6565), 308-315 (2021). DOI [10.1126/science.abh3350](https://doi.org/10.1126/science.abh3350).
